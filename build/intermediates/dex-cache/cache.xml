@@ -2,112 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="18b9dbb80b4f275112c4350c2645d434095ab2d1">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\instant-run_6f21a6e16a4ad3d5c5cda66ccbe61aad2eaa4647.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_38a44e5fbbdecc9b3c5d36520cb2aa64340e1e66.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_3ae9b2a05b07b5ce945522d2bf5be196260f011c.jar" />
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_03b9b5b10fe7f841b3de1a39a31163ada8aefeb6/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_d87ce5be66e6c0f9f5f1d96e6ea33bcbb01ec005.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_25fe25561771adc15af68faf2878aca7e1b8b36f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="cdb196f8ebd5bc64b44a3f6668cdedabda713a24">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_058edb88ef257cebc520ddff3c374a88f42d6526.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_e4ae0e7476ed7ad23ae06f39d2183d03c52c5940.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\glide-3.7.0_8f9725af7d5d4270d5220d301b9f5ea78680c879.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_aac5c93e4e6b996f8eedf46af3407aa5bc98c387.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_8d43079754f34c51fa4dba6917a7f7277cbab980.jar" />
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_939f0d20e2a8bdca1f4c3d52523e829b79b36fbd/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_eb28717724126ad600cedbeaba5efd21c1f53f64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_5f7747b1a199b3c2c21494055fd66c075faecda4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dafbc0cea970c908f0a01ec07dca782244c54acf">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09e4c6fa30c72bcb63b46c1390ab2a99f2e88f77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b01e985867eba8a8ca45e8efdb2faac8bbc03afd">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fa215c08c4268da2ea368f0829b5054de95c3a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_e0ac21a1c55fe8c0dc202100a2de2f9c964b4496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_00ab077ee59fd7bcfe8278272c298cc91a903d8d.jar" />
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_d4d60270f50e0f1b8735edd7d66d20ff599f554f/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\Android\Child\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_5eed13b9c87e84fbd44bfd1040712618b32b317e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.0_1609fedcc2f673638faed3bff397cc84e2f7cba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_d53d8acb8c3763cc0d5f635b2a4c6fb380883aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/saklain/Desktop/child/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
-        <dex dex="D:\Android\Child\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.0_cbfd9e580ce2c7b2580fc0939279deb66a13e036.jar" />
+        <dex dex="/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.0_1169d70df9939ef0cf04f4cfe553a19f1470f9de/classes.dex" />
     </item>
 
 </items>

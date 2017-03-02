@@ -16,11 +16,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar" >
         <activity android:name="com.example.saklain.child.MainActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.example.saklain.child.NewBorn"
@@ -35,6 +30,13 @@
         <activity android:name="com.example.saklain.child.HelpLine" />
         <activity android:name="com.example.saklain.child.PregnancyTime" />
         <activity android:name="com.example.saklain.child.HealthCare" />
+        <activity android:name="com.example.saklain.child.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

@@ -1,4 +1,7 @@
-#Thu Mar 02 20:59:39 BDT 2017
-base.0=D\:\\Android\\Child\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu Mar 02 21:49:46 BDT 2017
+base.0=/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fa215c08c4268da2ea368f0829b5054de95c3a6
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\Android\\Child\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09e4c6fa30c72bcb63b46c1390ab2a99f2e88f77/classes.dex
+base.1=/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09e4c6fa30c72bcb63b46c1390ab2a99f2e88f77
+file.0=/home/saklain/Desktop/child/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fa215c08c4268da2ea368f0829b5054de95c3a6/classes.dex

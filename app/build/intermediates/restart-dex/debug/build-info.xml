@@ -1,43 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86,armeabi-v7a"
-    api-level="19"
-    density="mdpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="610423973101504"
-    token="-8904717193153093177"
+    timestamp="84160422353961"
+    token="-2283380500107794941"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="275" />
+        duration="302" />
     <task
         name="instant-run-dex"
-        duration="22" />
+        duration="48" />
     <task
         name="instant-run-transform"
-        duration="38" />
+        duration="68" />
     <task
         name="verifier"
-        duration="11" />
+        duration="29" />
 
     <artifact
-        location="D:\Android\Child\app\build\intermediates\reload-dex\debug\classes.dex"
+        location="/home/saklain/Desktop/child/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/saklain/Desktop/child/app/build/intermediates/reload-dex/debug/classes.dex"
         type="RELOAD_DEX" />
 
     <build
-        timestamp="610389007897698"
+        timestamp="83959396884204"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Android\Child\app\build\outputs\apk\app-debug.apk"
+            location="/home/saklain/Desktop/child/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="610423973101504"
+        timestamp="84160422353961"
         verifier="COMPATIBLE" >
         <artifact
-            location="D:\Android\Child\app\build\intermediates\reload-dex\debug\classes.dex"
+            location="/home/saklain/Desktop/child/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/saklain/Desktop/child/app/build/intermediates/reload-dex/debug/classes.dex"
             type="RELOAD_DEX" />
     </build>
 
