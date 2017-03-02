@@ -1,0 +1,4 @@
+#Thu Mar 02 20:59:39 BDT 2017
+base.0=D\:\\Android\\Child\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android\\Child\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

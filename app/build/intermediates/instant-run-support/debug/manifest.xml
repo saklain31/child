@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.saklain.child"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity android:name="com.example.saklain.child.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.saklain.child.NewBorn"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.saklain.child.ChildrenGrowth"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.saklain.child.GrowthSteps"
+            android:label="@string/app_name" />
+        <activity android:name="com.example.saklain.child.Education" />
+        <activity android:name="com.example.saklain.child.HelpLine" />
+        <activity android:name="com.example.saklain.child.PregnancyTime" />
+        <activity android:name="com.example.saklain.child.HealthCare" />
+    </application>
+
+</manifest>

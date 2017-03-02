@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pregnancy_time"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="#d4dadf">
+    <Button
+        android:id="@+id/btn11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="মায়ের স্বাস্থ্য"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/cbtn1"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:id="@+id/btn12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সাধারণ সমস্যা"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/btn11"
+        android:background="@drawable/cbtn1"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/btn13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="খাবার"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/btn12"
+        android:background="@drawable/cbtn1"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/btn14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="পারিবারিক যত্ন"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/btn13"
+        android:background="@drawable/cbtn1"
+        android:textColor="@android:color/white"/>
+
+
+</RelativeLayout>

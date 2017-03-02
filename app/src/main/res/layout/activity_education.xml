@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_education"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#d4dadf"
+    tools:context="com.example.saklain.child.Education">
+
+    <Button
+        android:id="@+id/btn51"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  শিশুর সাথে খেলাধুলা  "
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/cbtn5"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/btn52"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  ছড়া  শুনানো  "
+        android:layout_below="@+id/btn51"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/cbtn5"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:id="@+id/btn53"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="   ভাষাশিক্ষা  "
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/btn52"
+        android:background="@drawable/cbtn5"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/btn54"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  ভদ্রতা  "
+        android:layout_below="@+id/btn53"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/cbtn5"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/btn55"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="   প্রশ্নের  উত্তর  দেয়া   "
+        android:layout_below="@+id/btn54"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/cbtn5"
+        android:textColor="@android:color/white"/>
+    <Button
+    android:id="@+id/btn56"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="  নৈতিকতা  "
+    android:layout_below="@+id/btn55"
+    android:layout_marginTop="15dp"
+    android:layout_marginBottom="15dp"
+    android:background="@drawable/cbtn5"
+    android:textColor="@android:color/white"/>
+
+
+</RelativeLayout>
